@@ -44,15 +44,15 @@ This project was developed as a Portfolio Project for Holberton School.
 
 ## Team Members
 
-### Ali Summan
-
-* GitHub: https://github.com/aliabdullah1215
-* LinkedIn: https://www.linkedin.com/in/ali-summan-9a39102aa
-
 ### Omar Alanzi
 
 * GitHub: https://github.com/omar-hail
 * LinkedIn: https://www.linkedin.com/in/omar-alanzi-6138062b7
+
+### Ali Summan
+
+* GitHub: https://github.com/aliabdullah1215
+* LinkedIn: https://www.linkedin.com/in/ali-summan-9a39102aa
 
 ### Mohammed Basuliman
 
@@ -74,23 +74,3 @@ https://github.com/aliabdullah1215/holbertonschool-portfolio_project
 * CSS3
 * Create React App
 * GitHub Pages
-
-## Run Locally
-
-Clone the project:
-
-```bash
-git clone <your-repository-url>
-```
-
-Install dependencies:
-
-```bash
-npm install
-```
-
-Run the development server:
-
-```bash
-npm start
-```
