@@ -1,70 +1,96 @@
-# Getting Started with Create React App
+# Data Diet Landing Page
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Data Diet is an AI-powered nutrition platform designed to help users create personalized nutrition plans, track progress, and improve healthy lifestyle decisions in a smarter and more organized way.
 
-## Available Scripts
+This repository contains the official landing page for the Data Diet project.
 
-In the project directory, you can run:
+## Live Website
 
-### `npm start`
+Coming Soon
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Main Project Website
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+https://datadiet.app/
 
-### `npm test`
+## Features
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Health Assessment
 
-### `npm run build`
+Calculate BMI, daily calories, hydration goals, and important health metrics to create a strong foundation for personalized nutrition planning.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### AI-Powered Nutrition Planning
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Generate customized meal plans using artificial intelligence based on body metrics, activity level, dietary preferences, and personal goals.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### Plan History Dashboard
 
-### `npm run eject`
+Review saved plans, revisit previous nutrition strategies, and keep all generated plans organized in one place.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+### Shopping List
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Automatically generate grocery lists based on selected meal plans to simplify healthy eating and save time.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+### Medical Support
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Connect with nutrition specialists and healthcare professionals for guidance and personalized recommendations.
 
-## Learn More
+## Inspiration
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Data Diet was inspired by a real challenge many people face when trying to maintain a healthy lifestyle. We struggled to create nutrition plans that were practical, easy to revisit, and organized in a way that simplified daily life. Another challenge was keeping track of ingredients and shopping needs after building a diet plan.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+This inspired us to build a platform that combines nutrition, artificial intelligence, plan tracking, and shopping support into one experience.
 
-### Code Splitting
+This project was developed as a Portfolio Project for Holberton School.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## Team Members
 
-### Analyzing the Bundle Size
+### Ali Summan
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+* GitHub: https://github.com/aliabdullah1215
+* LinkedIn: https://www.linkedin.com/in/ali-summan-9a39102aa
 
-### Making a Progressive Web App
+### Omar Alanzi
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+* GitHub: https://github.com/omar-hail
+* LinkedIn: https://www.linkedin.com/in/omar-alanzi-6138062b7
 
-### Advanced Configuration
+### Mohammed Basuliman
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+* GitHub: https://github.com/oDoDyK
+* LinkedIn: https://www.linkedin.com/in/mohammed-basuliman-0a687a333
 
-### Deployment
+### Hussam Alshalahi
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+* GitHub: https://github.com/AoximL
+* LinkedIn: https://www.linkedin.com/in/hussam-alshalahi-9066b5272
 
-### `npm run build` fails to minify
+## Project Repository
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+https://github.com/aliabdullah1215/holbertonschool-portfolio_project
+
+## Tech Stack
+
+* React
+* CSS3
+* Create React App
+* GitHub Pages
+
+## Run Locally
+
+Clone the project:
+
+```bash
+git clone <your-repository-url>
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Run the development server:
+
+```bash
+npm start
+```
