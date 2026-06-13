@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/datadiet-portfolio/static/css/main.2c18f38d.css",
+    "main.js": "/datadiet-portfolio/static/js/main.c63d630e.js",
+    "static/js/453.39347629.chunk.js": "/datadiet-portfolio/static/js/453.39347629.chunk.js",
+    "static/media/feature1.png": "/datadiet-portfolio/static/media/feature1.dbf78abb1c5b273ad23b.png",
+    "static/media/hero.png": "/datadiet-portfolio/static/media/hero.df01a60e830a4634deff.png",
+    "static/media/feature2.png": "/datadiet-portfolio/static/media/feature2.4aa2339ce331b8d865e3.png",
+    "static/media/feature3.png": "/datadiet-portfolio/static/media/feature3.5e8cac2d02999bd93bfe.png",
+    "static/media/gallery3.png": "/datadiet-portfolio/static/media/gallery3.de49104c225b21966168.png",
+    "static/media/gallery2.png": "/datadiet-portfolio/static/media/gallery2.1787f58332e3b7beee91.png",
+    "static/media/gallery1.png": "/datadiet-portfolio/static/media/gallery1.330b74d45f0406780239.png",
+    "static/media/logo.png": "/datadiet-portfolio/static/media/logo.2e8b4192b9ed785c5831.png",
+    "index.html": "/datadiet-portfolio/index.html",
+    "main.2c18f38d.css.map": "/datadiet-portfolio/static/css/main.2c18f38d.css.map",
+    "main.c63d630e.js.map": "/datadiet-portfolio/static/js/main.c63d630e.js.map",
+    "453.39347629.chunk.js.map": "/datadiet-portfolio/static/js/453.39347629.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2c18f38d.css",
+    "static/js/main.c63d630e.js"
+  ]
+}
