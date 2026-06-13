@@ -4,10 +4,6 @@ Data Diet is an AI-powered nutrition platform designed to help users create pers
 
 This repository contains the official landing page for the Data Diet project.
 
-## Live Website
-
-Coming Soon
-
 ## Main Project Website
 
 https://datadiet.app/
